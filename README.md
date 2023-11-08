@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I am a current sophomore attending UC Berkeley pursuing a degree in Computer Science. Although I have just dipped my toes in to more specialized CS fields, the ones that currently interest me right now are database management, network architecture, and extended reality. Machine learning is cool too but who isn't interested in that right now!
 
 <!--
 **snickerdood1e/snickerdood1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
